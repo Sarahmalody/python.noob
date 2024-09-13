@@ -51,7 +51,5 @@ def play_game():
             break
 
         current_player = "O" if current_player == "X" else "X"
-
-
 # Start the game
 play_game()
